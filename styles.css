@@ -1,1 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    width: 90%;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.left {
+    width: 35%;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+}
+
+.right {
+    width: 65%;
+    padding: 20px;
+}
+
+.profile-img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.section-title {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.skill {
+    margin-bottom: 20px;
+}
+
+.bar {
+    width: 100%;
+    background: #e3e3e3;
+    height: 10px;
+    border-radius: 5px;
+}
+
+.fill {
+    height: 100%;
+    background: #4285f4;
+    border-radius: 5px;
+}
+
 
